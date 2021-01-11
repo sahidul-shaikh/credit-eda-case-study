@@ -36,7 +36,8 @@ To develop your understanding of the domain, you are advised to independently re
 
 ## Data Understanding
 
-The datasets ate uploaded in the repository.
+Download the dataset from the link below.  
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
 
 This dataset has 3 files as explained below: 
 1. **application_data.csv**  contains all the information of the client at the time of application.
